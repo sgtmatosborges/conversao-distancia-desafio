@@ -15,9 +15,6 @@ Um aplicativo de "Conversão de Distâncias" geralmente tem a função de ajudar
 # 1. Configuração do Ambiente🚇
 - criado arquivo DockerFile
 - criado pasta img com as imagem do processo do ambiente com comandos executados.
-![Exemplo de Imagem](images/exemplo.png)
-![Exemplo de Imagem](images/exemplo.png)
-
 
 # 2. Criação e Teste do Contêiner
 ## Geração da imagem Docker a partir do Dockerfile criado.
@@ -26,7 +23,23 @@ Um aplicativo de "Conversão de Distâncias" geralmente tem a função de ajudar
 - rafael@ubuntu22:~/Documents/conversao-distancia-main$ docker container run -d -p 5000:5000 conversao-distancia
 - rafael@ubuntu22:~/Documents/conversao-distancia-main$ docker ps
 - digitar na URL: localhost:5000 isso abre a aplicação no browser.
-![Exemplo de Imagem](images/exemplo.png)
-![Exemplo de Imagem](images/exemplo.png)
+
+# 3. imagems do processo de execucao
+##
+![Exemplo de Imagem1](img/docker_coversao-distancia.png)
+##
+![Exemplo de Imagem2](img/docker_coversao-distancia2.png)
+##
+![Exemplo de Imagem3](img/docker_coversao-distancia3.png)
+##
+![Exemplo de Imagem4](img/docker_coversao-distancia4.png)
+##
+![Exemplo de Imagem5](img/docker_coversao-distancia5.png)
+##
+![Exemplo de Imagem6](img/docker_coversao-distancia6.png)
+##
+![Exemplo de Imagem7](img/docker_coversao-distancia7.png)
+
+
 
 
